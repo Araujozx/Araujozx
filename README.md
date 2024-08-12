@@ -1,16 +1,26 @@
-## Hi there 👋
+<h1 align="left">Olá 👋 Tudo bem?</h1>
 
-<!--
-**Araujozx/Araujozx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<p align="left">Meu nome é Ademilson, mas pode me chamar Araújo e eu sou um Desenvolvedor de Sistemas, no Brasil</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<h2 align="left">Sobre Mim</h2>
+
+###
+
+<p align="left">✨ Criando Bugs Desde 2024<br>📚 Atualmente estou aprendendo Back-End, pentesting, inteligência artifial<br>🎯 Objetivos: Ter um conhecimento amplo na área de DSI<br>🎲 Curiosidade: Persisto em aprender coisas novas até tudo ficar 100%</p>
+
+###
+
+<h2 align="left">Eu codifico com </h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo"  />
+  <img width="12" />
+</div>
+
+###
