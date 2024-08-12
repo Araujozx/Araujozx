@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é Ademilson, mas pode me chamar Araújo e eu sou um Desenvolvedor de Sistemas, no Brasil</p>
+<p align="left">Meu nome é Ademilson, mais conhecido como Araújo e eu sou um Desenvolvedor de Sistemas, no Brasil</p>
 
 ###
 
